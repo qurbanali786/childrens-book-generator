@@ -1,0 +1,4 @@
+├── index.html       # Main page
+├── style.css        # Styling
+├── script.js        # AI, TTS, DOCX logic
+└── assets/          # Images/fonts
